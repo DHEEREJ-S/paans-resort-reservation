@@ -20,10 +20,6 @@ CI_ENVIRONMENT = production
 # APP
 #--------------------------------------------------------------------
 
-app.baseURL = 'http://localhost:8080'
-FIREBASE_PROJECT_ID = 'paans-resort-reservation'
-FIREBASE_CLIENT_EMAIL = 'firebase-adminsdk-fbsvc@paans-resort-reservation.iam.gserviceaccount.com'
-FIREBASE_PRIVATE_KEY = '-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTh6Ir6bIVhvaX\nf74gE5bhpz2NRWoG2VDkkf7r7Yf/0f5Nvlygl/ayv/ehFTeAGrjSTIhSjNFgreXD\nTPCoumdvpaFKBQX2NaVWGxaym8SVIefhi/BE0WIxJbZQRlJoYkEu+3X0ymFyhvsl\nkz0AkwhBIRsHGOQKHw9rGnU5/MK9hz0KzIhpnVQ2AVi77ZL/3K5hfX683OvN7GA0\nVi6YJ2YqWbjD6la0Dy3IYWqwolvmCXu/wYtuWFzxRYedS7MP8PbiYLnfP0aFdGV2\nVEN/wwohrjKyPrR5Yp8HNPWmOJisxXUBUYsB4R9V9vgRFB5siVDW3RSPrMHr+Dyl\ndnKiKGUXAgMBAAECggEAELP6G0uV01tX53if07qYRHNHSft8NtQ8LgBVR932yj2T\nviHVAJ1fTpgX/rFFM6lohLqkXRhfhCnXJcfSjRBDEK7cgJLK+LkduCHlde8U483M\nmKPLMjPyc/0NW2NiKHnxubsDgnPko/2CoWHyBDSYB0SM9M+DWkU/m254aT7LRdne\nG6ejw7p1cZ6F2ptmreC9MvpIXw5Sjfevz5dsCy86IpkK9u3Mkup+DrxL7lzntHy8\njHRa/u2zLbloCIcObEtadNCRDa8wD6ZaI39uQf1XIyKRGIctKp8LDL27hfCBvp7W\n88XvS8H9vHg/lOhUWtmig+yLURcro+qKrWcLgypHYQKBgQD7ylwcLLwugQ9sOAlE\ntN9cj86nI6RbWw73enAkXTi8aglLVad8A3ezcJ9xY8bsI/3k+x0Ym0bmZTK898WZ\nrU6ITk5hbE+/P9Is/T8PIRgeVxKUrZEhAc2DN7WSx42OWhE7hJjOo86se1laIeiu\n1SmGzhzVHm3v4rCKbMggWOhp8QKBgQDXEPY28SHLUuZf0fDOpm+v7B/1qJ7vHgOo\nxjRqkKXhBC0g53iNYm2UTXNifMA5uAfghDCFdckV0KhMNUZvfiZtL1o62rV3AT9k\njpLRQ24q1yNZAUBQpSH2RkhQiH4KHm+upeKVNBvGFjnivMP77MHqtI1ugUxwCOAU\nXq/CnnH3hwKBgQCe0p9VWlZ9UwVictpNz3WRElj9DrtusLp5Gm9AUNkn6A7iyS2z\nSRCpTGIWiSSB8ZYGaOuKiO+pBq6BihzHeg0uZ46DX2nSLjSqEjhDl9F52dyrkewY\nkOWMXoiXBG7jGycBjvtAZQ1JuSi8dOUr2uOt17dSKzaXeTt4pXN7C/nWUQKBgC41\nTcF2Q72M3USfNe8goYSZ5jAA/8z+lOixVVfEJm/XVt7n/OXbzRF9Jpp1lVORb9fU\nbxxttzvBrjdZhv2zjAwPjYJxtWWRVg6D95WQuF3qBYU9GJV7NXXVmfn7qaEA8xwC\nNlG6dXE1G1DVIALD1tJX4r9odoTn00VtJrRZGMGHAoGAZfMP3FnsXyVWE+CM3N2W\n2tJB/xNwTJ6pqymE/mrhT8FZH/jjKB6wE4gcVdJbLv9gbL3CjFCGQPW9jBE+6wy0\nVN8fZd401oRR95NYctxt4h289qI62QfBXmIghGuEylfZ0hUO9XdNmzuIkrMt0gWs\nbFbfxRMCyTLDby6N5GyIOWQ=\n-----END PRIVATE KEY-----\n'
 # If you have trouble with `.`, you could also use `_`.
 # app_baseURL = ''
 # app.forceGlobalSecureRequests = false
